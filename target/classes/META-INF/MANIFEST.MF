@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-sample
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: krant
+Implementation-Vendor-Id: com.geeksoft
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-sample
+Created-By: Maven Integration for Eclipse
+
